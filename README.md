@@ -1,1 +1,1 @@
-# odin-recipes
+MY favourite recipes
